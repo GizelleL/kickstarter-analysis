@@ -1,2 +1,3 @@
 # kickstarter-analysis
-module 1 - analysis practice 
+An Analysis of Kickstarter Campaigns
+Compares kickstarter campaigns
